@@ -1,1 +1,33 @@
-Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+Dưới đây là 10 câu hỏi quan trọng mà giáo viên có thể hỏi ChatGPT để hỗ trợ trong việc giảng dạy ứng dụng AI:
+
+1. Xây dựng bài giảng AI:
+"Làm thế nào để tôi có thể thiết kế một bài giảng về ứng dụng AI cho học sinh/sinh viên ở cấp độ [cơ bản/trung cấp/nâng cao]?"
+
+2. Công cụ hỗ trợ giảng dạy:
+"Những công cụ AI nào có thể giúp giáo viên soạn giáo án, thiết kế bài giảng và tạo nội dung học tập hiệu quả?"
+
+3. Bài tập thực hành về AI:
+"Hãy đề xuất một số bài tập thực hành giúp học sinh hiểu cách AI hoạt động, đặc biệt là về [học máy, xử lý ngôn ngữ tự nhiên, thị giác máy tính]?"
+
+4. Đánh giá học sinh với AI:
+"Làm thế nào tôi có thể sử dụng AI để tạo bài kiểm tra tự động và cá nhân hóa việc đánh giá học sinh?"
+
+5. Ứng dụng AI trong giảng dạy các môn học khác:
+"AI có thể được tích hợp vào các môn học như Toán, Văn, Khoa học hay Ngoại ngữ như thế nào để nâng cao hiệu quả giảng dạy?"
+
+6. Cá nhân hóa việc học với AI:
+"Làm thế nào AI có thể giúp tôi tạo lộ trình học tập cá nhân hóa cho từng học sinh?"
+
+7. Trí tuệ nhân tạo và đạo đức:
+"Tôi có thể hướng dẫn học sinh về các vấn đề đạo đức trong AI như thiên vị thuật toán, quyền riêng tư và ảnh hưởng đến việc làm như thế nào?"
+
+8. Dạy học sinh cách sử dụng AI một cách sáng tạo và hiệu quả:
+"Làm sao tôi có thể hướng dẫn học sinh sử dụng AI để hỗ trợ học tập thay vì phụ thuộc vào nó?"
+
+9. AI trong việc phát triển kỹ năng mềm:
+"Làm thế nào tôi có thể sử dụng AI để rèn luyện kỹ năng mềm cho học sinh, như tư duy phản biện, sáng tạo và giao tiếp?"
+
+10. Xu hướng AI trong giáo dục tương lai:
+"Những xu hướng AI nào sẽ ảnh hưởng đến ngành giáo dục trong 5-10 năm tới, và tôi nên chuẩn bị như thế nào để đón đầu sự thay đổi?"
+
+Cần thêm thông tin bạn có thể nhắn tin zalo cho tôi: 0866468687. Trân trọng
